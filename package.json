@@ -1,0 +1,48 @@
+{
+  "_from": "react-native-freshchat-sdk",
+  "_id": "react-native-freshchat-sdk@2.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-/SP4OVOQPPmCIDFsGBqL0trRHUjHT4cjLeCTTWH0nVCMkDtBXnN9i1aiqiLl+Pe97RyjyvyOWXsCLrnaIlaZFw==",
+  "_location": "/react-native-freshchat-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-freshchat-sdk",
+    "name": "react-native-freshchat-sdk",
+    "escapedName": "react-native-freshchat-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-freshchat-sdk/-/react-native-freshchat-sdk-2.3.1.tgz",
+  "_shasum": "f62c6af100847ff749bda17e2f8ebdd73df237f2",
+  "_spec": "react-native-freshchat-sdk",
+  "_where": "/Users/mandisa/Work/Stulo/my-app",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native module that allows you to use the native Freshchat SDK",
+  "keywords": [
+    "freshchat",
+    "sdk",
+    "react",
+    "native",
+    "bridge",
+    "Android",
+    "module",
+    "iOS",
+    "Obj C",
+    "Swift"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-freshchat-sdk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.3.1"
+}
